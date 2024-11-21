@@ -1,5 +1,3 @@
-# CODTECH-Task1 Furni.shop eCommerce Website
-
 **NAME**     : ARAVINDAN K
 **COMPANY**  : CODTECH IT SOLUTIOBS
 **ID**       : CTO8DS9506
@@ -9,7 +7,7 @@
 
 OVERVIEW OF THE PROJECT 
 
-**Furni.shop Website Development Project Report**
+**Furni.shop eCommerce Website Project Report**
 
 Executive Summary
 
