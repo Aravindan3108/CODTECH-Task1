@@ -6,7 +6,7 @@ DOMAIN   : Web Development
 DURATION : October - November 2024
 MENTOR   :
 
-###OVERVIEW OF THE PROJECT 
+OVERVIEW OF THE PROJECT 
 
 **Furni.shop Website Development Project Report**
 
