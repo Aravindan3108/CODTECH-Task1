@@ -1,6 +1,6 @@
 # CODTECH-Task1 Furni.shop eCommerce Website
-NAME     : ARAVINDAN K
-COMPANY  : CODTECH IT SOLUTIOBS
+**NAME**     : ARAVINDAN K
+**COMPANY**  : CODTECH IT SOLUTIOBS
 ID       : CTO8DS9506
 DOMAIN   : Web Development 
 DURATION : October - November 2024
