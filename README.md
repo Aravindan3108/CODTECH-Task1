@@ -66,3 +66,9 @@ Solution: Implemented caching, code splitting, and image compression.
 Conclusion
 
 The Furni.shop website development project successfully delivered an e-commerce platform with a seamless user experience. The website's responsive design and secure payment processing ensure a reliable shopping environment.
+
+![Screenshot 2024-11-21 185027](https://github.com/user-attachments/assets/66d01c92-b452-44a4-8acb-2bac3ed8a438)
+![Screenshot 2024-11-21 185044](https://github.com/user-attachments/assets/d70df9f0-809a-4b3b-90f7-bea015950c25)
+![Screenshot 2024-11-21 185058](https://github.com/user-attachments/assets/ef8e5da6-c92e-4e92-91de-8e69d80961f0)
+![Screenshot 2024-11-21 185111](https://github.com/user-attachments/assets/996f5911-24ef-4140-8757-e786110a177f)
+![Screenshot 2024-11-21 185127](https://github.com/user-attachments/assets/6a4a387e-6b35-4273-afc2-6394f3a446dc)
